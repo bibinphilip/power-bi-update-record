@@ -1,2 +1,1 @@
-# power-bi-update-record
-Using Power Apps we can update the record in PowerBI and dashboard immediately reflects the new values
+Generally the reporting tools do not allow modifying data in the source as they are read-only. The write-back function in Power Apps is available to accommodate this. Write-back enables end users to change and update the values in the data source directly from the Power BI report. 
